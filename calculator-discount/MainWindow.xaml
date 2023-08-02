@@ -12,8 +12,10 @@
             <RowDefinition Height="Auto" />
             <RowDefinition Height="Auto" />
         </Grid.RowDefinitions>
-        <TextBlock x:Name="resultText" Margin="0,103,20,243" TextAlignment="Center" FontSize="20" />
-        <TextBlock x:Name="discountText" Margin="10,10,10,336" TextAlignment="Center" FontSize="20" />
+        <TextBlock x:Name="resultText" Margin="10,84,10,276" TextAlignment="Center" FontSize="20" Text="" />
+        <TextBlock x:Name="discountText" Margin="10,10,10,355" TextAlignment="Center" FontSize="20" />
+        <TextBlock x:Name="dicountValueText" Margin="10,158,10,207" TextAlignment="Center" FontSize="20" FontWeight="Bold" Foreground="Red" />
+
         <TextBox Text="Enter a value here..." GotFocus="inputBox_GotFocus" x:Name="inputBox" Grid.Row="0" Margin="10,243,10,61" TextChanged="inputBox_TextChanged" FontSize="20" TextAlignment="Center" VerticalContentAlignment="Center"  />
 
     </Grid>

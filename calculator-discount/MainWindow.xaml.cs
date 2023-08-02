@@ -63,12 +63,15 @@ namespace calculator_discount
                     discountValue = value * 0.1;
                 }
 
-                resultText.Text = $"Updated Value: {value - discountValue:C2}";
+                //resultText.Text = $"Updated Value: {value - discountValue:C2}";
+                resultText.Text = "";
                 discountText.Text = discountInfo;
+                dicountValueText.Text = $"Discount is: {discountValue:C2}";
             }
             else
             {
                 resultText.Text = "Invalid input";
+                dicountValueText.Text = "";
                 discountText.Text = "";
             }
         }
