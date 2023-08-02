@@ -1,0 +1,20 @@
+﻿<Window x:Class="calculator_discount.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:calculator_discount"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <TextBlock x:Name="resultText" Margin="0,103,20,243" TextAlignment="Center" FontSize="20" />
+        <TextBlock x:Name="discountText" Margin="10,10,10,336" TextAlignment="Center" FontSize="20" />
+        <TextBox Text="Enter a value here..." GotFocus="inputBox_GotFocus" x:Name="inputBox" Grid.Row="0" Margin="10,243,10,61" TextChanged="inputBox_TextChanged" FontSize="20" TextAlignment="Center" VerticalContentAlignment="Center"  />
+
+    </Grid>
+</Window>

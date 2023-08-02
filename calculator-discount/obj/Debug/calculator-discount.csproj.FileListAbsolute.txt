@@ -1,0 +1,16 @@
+D:\Projects\.Net\calculator-discount\calculator-discount\bin\Debug\calculator-discount.exe.config
+D:\Projects\.Net\calculator-discount\calculator-discount\bin\Debug\calculator-discount.exe
+D:\Projects\.Net\calculator-discount\calculator-discount\bin\Debug\calculator-discount.pdb
+D:\Projects\.Net\calculator-discount\calculator-discount\obj\Debug\calculator-discount.csproj.AssemblyReference.cache
+D:\Projects\.Net\calculator-discount\calculator-discount\obj\Debug\calculator-discount.csproj.SuggestedBindingRedirects.cache
+D:\Projects\.Net\calculator-discount\calculator-discount\obj\Debug\MainWindow.g.cs
+D:\Projects\.Net\calculator-discount\calculator-discount\obj\Debug\App.g.cs
+D:\Projects\.Net\calculator-discount\calculator-discount\obj\Debug\calculator-discount_MarkupCompile.cache
+D:\Projects\.Net\calculator-discount\calculator-discount\obj\Debug\calculator-discount_MarkupCompile.lref
+D:\Projects\.Net\calculator-discount\calculator-discount\obj\Debug\MainWindow.baml
+D:\Projects\.Net\calculator-discount\calculator-discount\obj\Debug\calculator-discount.g.resources
+D:\Projects\.Net\calculator-discount\calculator-discount\obj\Debug\calculator_discount.Properties.Resources.resources
+D:\Projects\.Net\calculator-discount\calculator-discount\obj\Debug\calculator-discount.csproj.GenerateResource.cache
+D:\Projects\.Net\calculator-discount\calculator-discount\obj\Debug\calculator-discount.csproj.CoreCompileInputs.cache
+D:\Projects\.Net\calculator-discount\calculator-discount\obj\Debug\calculator-discount.exe
+D:\Projects\.Net\calculator-discount\calculator-discount\obj\Debug\calculator-discount.pdb
